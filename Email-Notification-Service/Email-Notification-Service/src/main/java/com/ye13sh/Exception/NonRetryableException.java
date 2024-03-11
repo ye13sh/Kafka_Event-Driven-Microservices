@@ -1,0 +1,18 @@
+package com.ye13sh.Exception;
+
+public class NonRetryableException extends RuntimeException{
+    public NonRetryableException() {
+    }
+
+    public NonRetryableException(String message) {
+        super(message);
+    }
+
+    public NonRetryableException(String message, Throwable cause) {
+        super(message, cause);
+    }
+
+    public NonRetryableException(Throwable cause) {
+        super(cause);
+    }
+}
