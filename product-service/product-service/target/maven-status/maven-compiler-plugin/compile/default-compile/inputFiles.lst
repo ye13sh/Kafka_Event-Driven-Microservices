@@ -1,0 +1,7 @@
+D:\Software's\E-Commerce_Kafka_Java11\product-service\product-service\src\main\java\com\ye13sh\productservice\DTO\ProductDTO.java
+D:\Software's\E-Commerce_Kafka_Java11\product-service\product-service\src\main\java\com\ye13sh\productservice\Model\Product.java
+D:\Software's\E-Commerce_Kafka_Java11\product-service\product-service\src\main\java\com\ye13sh\productservice\Configuration\KafkaConfig.java
+D:\Software's\E-Commerce_Kafka_Java11\product-service\product-service\src\main\java\com\ye13sh\productservice\Service\ProductService.java
+D:\Software's\E-Commerce_Kafka_Java11\product-service\product-service\src\main\java\com\ye13sh\productservice\ProductServiceApplication.java
+D:\Software's\E-Commerce_Kafka_Java11\product-service\product-service\src\main\java\com\ye13sh\productservice\Event\ProductEvent.java
+D:\Software's\E-Commerce_Kafka_Java11\product-service\product-service\src\main\java\com\ye13sh\productservice\Controller\ProductController.java

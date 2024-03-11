@@ -1,0 +1,7 @@
+com\ye13sh\productservice\Model\Product.class
+com\ye13sh\productservice\DTO\ProductDTO.class
+com\ye13sh\productservice\Event\ProductEvent.class
+com\ye13sh\productservice\Service\ProductService.class
+com\ye13sh\productservice\ProductServiceApplication.class
+com\ye13sh\productservice\Controller\ProductController.class
+com\ye13sh\productservice\Configuration\KafkaConfig.class
